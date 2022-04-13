@@ -17,7 +17,7 @@ h1 {
 }
 
 header {
-  background-image: url("../images/index/bg.jpg");
+  background-image: url("../images/index/fix.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -131,7 +131,7 @@ img {
 
 
 header {
-  background-image: url("../images/index/bg2.jpg");
+  background-image: url("../images/index/fix.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
