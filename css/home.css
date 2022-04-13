@@ -119,7 +119,7 @@ img {
   position: relative;
   margin: auto;
   display: flex;
-  margin-bottom: -30px;
+  margin-bottom: 30px;
   justify-content: center;
   
 }
@@ -139,12 +139,4 @@ header {
   min-height: 250px;
   position: relative;
 }
-  .navbar-light .navbar-nav .nav-link {
-    color: #00FF7F !important;
-    padding: 20px 0;
-  }
-
-  .navbar-light .navbar-nav .nav-link.active {
-    color: #00FF7F !important;
-  }
 }
